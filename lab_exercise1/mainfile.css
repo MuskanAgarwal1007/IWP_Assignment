@@ -1,1 +1,28 @@
+body
+{
+	align-content: center;
+	text-align: center;
+}
+H1{
+	text-align: center;
+	justify-content: center;
+	font-family: sans-serif;
+	font-size: 80px;
+	color: blue;
+	font-weight: bold;
+	font-variant:small-caps;
+	font-style: oblique;
+	margin: auto;
+}
+H3{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 20px;
+	margin:auto;
+}
 
+img {
+  display: block;
+  margin: auto;
+  max-width: auto;
+}
